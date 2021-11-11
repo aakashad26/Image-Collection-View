@@ -10,9 +10,14 @@ import UIKit
 
 class NewCollectionViewCell: UICollectionViewCell {
 
+    @IBOutlet weak var label: UILabel!
+    
+    @IBOutlet weak var img: UIImageView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        
     }
 
 }

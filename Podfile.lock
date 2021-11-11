@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.4)
+  - DeviceGuru (7.0.1):
+    - DeviceGuru/DeviceGuru (= 7.0.1)
+  - DeviceGuru/DeviceGuru (7.0.1):
+    - DeviceGuru/Resources
+  - DeviceGuru/Resources (7.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DeviceGuru
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DeviceGuru
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  DeviceGuru: 73d82f34cddee25d215b35eb4d094b7a44ec187a
+
+PODFILE CHECKSUM: 1e2cd076167fddd7b11c1a523de9ae83cc8614de
+
+COCOAPODS: 1.11.2
